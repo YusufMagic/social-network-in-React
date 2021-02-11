@@ -1,0 +1,17 @@
+.header {
+    grid-area: h;
+    background-color: green;
+  }
+
+  img {
+    width: 100px;
+  }
+
+  .auth {
+      display: flex;
+      justify-content: flex-end;
+  }
+
+  .authEl {
+     padding: 20px;
+  }
